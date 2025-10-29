@@ -15,6 +15,7 @@ Our mission is to empower artists by protecting their creations and enabling tra
 
 FrontEnd :http://localhost:3000/marketplace
 Backend API : http://localhost:5000/swagger/index.html
+Hedera Blockchain Wallet: https://hashscan.io/testnet/account/copyYourAccout
 
 
 
