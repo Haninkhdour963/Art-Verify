@@ -17,8 +17,9 @@ Our mission is to empower artists by protecting their creations and enabling tra
 
 - Haneen Khdour : https://github.com/Haninkhdour963
 ---
-
-## pesentation: 
+## Business Model Canvas:
+https://www.canva.com/design/DAG25ab42SI/JO6yqBEDkVZ04QDdLsiTkQ/edit
+## Presentation: 
 https://prezi.com/p/edit/ch8cbapyzvo_/
 ## Demo:
 https://share.descript.com/view/TNFRT4p5vUR
