@@ -10,17 +10,25 @@ Our mission is to empower artists by protecting their creations and enabling tra
 
 
 ---
-## Our Team : 
-Mayar Qutishat : https://github.com/Mayarqutishat
-Haneen Khdour : https://github.com/Haninkhdour963
+## Our Team: 
+
+- Mayar Qutishat : https://github.com/Mayarqutishat
+
+
+- Haneen Khdour : https://github.com/Haninkhdour963
 ---
 
-## pesentation : https://prezi.com/p/edit/ch8cbapyzvo_/
-## Demo : https://share.descript.com/view/TNFRT4p5vUR
+## pesentation: 
+https://prezi.com/p/edit/ch8cbapyzvo_/
+## Demo:
+https://share.descript.com/view/TNFRT4p5vUR
 
-##FrontEnd :http://localhost:3000/marketplace
-##Backend API : http://localhost:5000/swagger/index.html
-##Hedera Blockchain Wallet: https://hashscan.io/testnet/account/copyYourAccout
+## FrontEnd: 
+http://localhost:3000/marketplace
+## Backend API:
+http://localhost:5000/swagger/index.html
+## Hedera Blockchain Wallet:
+https://hashscan.io/testnet/account/copyYourAccout
 
 
 
