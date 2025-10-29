@@ -1,0 +1,47 @@
+services:
+  artverify_api:
+    container_name: artverify_api
+    build:
+      context: ./Backend/Backend
+      dockerfile: Dockerfile
+    ports:
+      - "5000:8080"
+    networks:
+      - app-network
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - artverify_db
+
+  artverify_db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: artverify_db
+    environment:
+      SA_PASSWORD: "Your_strong_password123!"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+    networks:
+      - app-network
+
+  artverify_frontend:
+    container_name: artverify_frontend
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    depends_on:
+      - artverify_api
+    networks:
+      - app-network
+
+volumes:
+  sql_data:
+
+networks:
+  app-network:
+    driver: bridge

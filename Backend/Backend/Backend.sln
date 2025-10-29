@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtVerify.API", "ArtVerify.API\ArtVerify.API.csproj", "{D478A20F-320C-4C17-BCBB-C4BC4453B705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtVerify.Application", "ArtVerify.Application\ArtVerify.Application.csproj", "{BE1171D5-617B-4B92-800F-8BEDD5911927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtVerify.Domain", "ArtVerify.Domain\ArtVerify.Domain.csproj", "{D9875647-8786-48D4-B97B-E91DC2B44D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtVerify.Infrastructure", "ArtVerify.Infrastructure\ArtVerify.Infrastructure.csproj", "{4B4083B2-E7BC-4A44-A77B-34E231891C70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docker", "Docker", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D478A20F-320C-4C17-BCBB-C4BC4453B705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D478A20F-320C-4C17-BCBB-C4BC4453B705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D478A20F-320C-4C17-BCBB-C4BC4453B705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D478A20F-320C-4C17-BCBB-C4BC4453B705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1171D5-617B-4B92-800F-8BEDD5911927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1171D5-617B-4B92-800F-8BEDD5911927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1171D5-617B-4B92-800F-8BEDD5911927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1171D5-617B-4B92-800F-8BEDD5911927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9875647-8786-48D4-B97B-E91DC2B44D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9875647-8786-48D4-B97B-E91DC2B44D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9875647-8786-48D4-B97B-E91DC2B44D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9875647-8786-48D4-B97B-E91DC2B44D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4083B2-E7BC-4A44-A77B-34E231891C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4083B2-E7BC-4A44-A77B-34E231891C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4083B2-E7BC-4A44-A77B-34E231891C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4083B2-E7BC-4A44-A77B-34E231891C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B027FBB-E9F1-4769-BF40-589614E7CC60}
+	EndGlobalSection
+EndGlobal

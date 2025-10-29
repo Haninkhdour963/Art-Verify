@@ -1,0 +1,15 @@
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\bin\Debug\net8.0\ArtVerify.Application.deps.json
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\bin\Debug\net8.0\ArtVerify.Application.dll
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\bin\Debug\net8.0\ArtVerify.Application.pdb
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\bin\Debug\net8.0\ArtVerify.Domain.dll
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\bin\Debug\net8.0\ArtVerify.Domain.pdb
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\obj\Debug\net8.0\ArtVerify.Application.csproj.AssemblyReference.cache
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\obj\Debug\net8.0\ArtVerify.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\obj\Debug\net8.0\ArtVerify.Application.AssemblyInfoInputs.cache
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\obj\Debug\net8.0\ArtVerify.Application.AssemblyInfo.cs
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\obj\Debug\net8.0\ArtVerify.Application.csproj.CoreCompileInputs.cache
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\obj\Debug\net8.0\ArtVerif.5EB187A8.Up2Date
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\obj\Debug\net8.0\ArtVerify.Application.dll
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\obj\Debug\net8.0\refint\ArtVerify.Application.dll
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\obj\Debug\net8.0\ArtVerify.Application.pdb
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Application\obj\Debug\net8.0\ref\ArtVerify.Application.dll

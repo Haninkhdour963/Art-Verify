@@ -1,0 +1,12 @@
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\bin\Debug\net8.0\ArtVerify.Domain.deps.json
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\bin\Debug\net8.0\ArtVerify.Domain.dll
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\bin\Debug\net8.0\ArtVerify.Domain.pdb
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\obj\Debug\net8.0\ArtVerify.Domain.csproj.AssemblyReference.cache
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\obj\Debug\net8.0\ArtVerify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\obj\Debug\net8.0\ArtVerify.Domain.AssemblyInfoInputs.cache
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\obj\Debug\net8.0\ArtVerify.Domain.AssemblyInfo.cs
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\obj\Debug\net8.0\ArtVerify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\obj\Debug\net8.0\ArtVerify.Domain.dll
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\obj\Debug\net8.0\refint\ArtVerify.Domain.dll
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\obj\Debug\net8.0\ArtVerify.Domain.pdb
+C:\Users\henom\OneDrive\Desktop\mayar\test\test\test\Backend\Backend\Backend\ArtVerify.Domain\obj\Debug\net8.0\ref\ArtVerify.Domain.dll
