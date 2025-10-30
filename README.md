@@ -104,6 +104,36 @@ Our mission is to empower artists by protecting their creations and enabling tra
 
 ---
 
+## Hedera Services Used
+
+-- **Hedera Smart Contracts: For minting and managing digital artwork ownership tokens.
+
+-- **Hedera Tokens: For representing unique digital artwork as tokens (NFT-like).
+
+-- **Hedera Consensus Service (optional): For logging immutable proof of actions on the ledger.
+
+--**Why Hedera?
+Hedera offers fast, secure, and low-cost transactions with high throughput and finality, which is ideal for NFT-like digital ownership tracking.
+
+--**Hedera Identifiers
+Example Smart Contract ID: 0.0.123456
+Example Token ID: 0.0.654321
+
+[Frontend React App] --> [Backend API / Node.js] --> [Hedera Hashgraph Network]
+       |                                         |
+       |                                         v
+       |                                    [IPFS Storage]
+       v
+[User Wallet (Testnet)]
+
+--**Security Notes
+
+Never commit private keys or sensitive credentials to the repository.
+
+Use .env for all secrets and .env.example to show the required environment variables.
+
+Ensure Docker containers are configured to avoid exposing sensitive ports to the public.
+
 ## Getting Started
 
 ### Prerequisites
