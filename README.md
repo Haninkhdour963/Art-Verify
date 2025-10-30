@@ -17,6 +17,15 @@ Our mission is to empower artists by protecting their creations and enabling tra
 
 - Haneen Khdour : https://github.com/Haninkhdour963
 ---
+
+## Hedera Certification :
+
+- Mayar Qutishat : https://drive.google.com/file/d/1VOPUcXhGRAt6iAm32vsNAGfnFFKbWyVr/view?usp=drive_link
+
+
+- Haneen Khdour : https://drive.google.com/file/d/1nx3XtxFGJ15ftcv7vpKoP2yjgh8pf-CW/view?usp=drive_link
+---
+
 ## Business Model Canvas:
 https://www.canva.com/design/DAG25ab42SI/JO6yqBEDkVZ04QDdLsiTkQ/edit
 ## Presentation: 
