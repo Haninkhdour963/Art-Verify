@@ -11,7 +11,7 @@ Our mission is to empower artists by protecting their creations and enabling tra
 
 ## Project Title & Track
 **Project Title:** Art-Verify  
-**Track:** Hedera Hackathon / Blockchain & NFT Track  
+**Track:** Hedera Hackathon / Gaming & NFT Track  
 
 ---
 
