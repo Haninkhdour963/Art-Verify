@@ -22,7 +22,7 @@ Our mission is to empower artists by protecting their creations and enabling tra
 
 **Business Model Canvas:** [Link](https://www.canva.com/design/DAG25ab42SI/JO6yqBEDkVZ04QDdLsiTkQ/edit)  
 **Pitch Deck:** [Link](https://prezi.com/p/edit/ch8cbapyzvo_/)  
-**Demo:** [Link](https://share.descript.com/view/TNFRT4p5vUR)  
+**Demo:** [Link](https://share.descript.com/view/h70CL4qIxSO)  
 
 **Frontend URL (local):** http://localhost:3000/marketplace  
 **Backend API URL (local):** http://localhost:5000/swagger/index.html  
