@@ -107,7 +107,7 @@ docker-compose up --build
 
 ## Architecture Diagram
 
-[Frontend React App] --> [Backend API / Node.js] --> [Hedera Hashgraph Network]
+[Frontend React App] --> [Backend API / Node.js(React)] --> [Hedera Hashgraph Network]
        |                                         |
        |                                         v
        |                                    [IPFS Storage]
